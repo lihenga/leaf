@@ -22,6 +22,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '每日阅读', link: '/daily-leaves/README' },
+      { text: '协作规范', link: '/CONTRIBUTING' },
       { text: '关于 LEAF', link: '/README' }
     ],
     sidebar: [
