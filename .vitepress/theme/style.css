@@ -1,0 +1,24 @@
+:root {
+  --vp-c-brand-1: #327354;
+  --vp-c-brand-2: #408b68;
+  --vp-c-brand-3: #327354;
+  --vp-c-brand-soft: rgba(50, 115, 84, 0.12);
+  --vp-home-hero-name-color: #327354;
+}
+
+.dark {
+  --vp-c-brand-1: #8acba5;
+  --vp-c-brand-2: #a2dbba;
+  --vp-c-brand-3: #408b68;
+  --vp-c-brand-soft: rgba(138, 203, 165, 0.14);
+  --vp-home-hero-name-color: #8acba5;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.9;
+}
+
+.VPHome .name {
+  letter-spacing: 0.08em;
+}
